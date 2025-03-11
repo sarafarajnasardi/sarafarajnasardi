@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/12qFOaBbu9TZny/giphy.gif](https://giphy.com/gifs/batmanvsuperman-batman-v-superman-bat-signal-l0NwGpoOVLTAyUJSo)" width="100%" height="250px" alt="Batman GIF"/>
+  <img src="https://media.giphy.com/media/12qFOaBbu9TZny/giphy.gif" width="100%" height="250px" alt="Batman GIF"/>
 </div>
 
 <h1 align="center">🦇 <span style="color:#FFD700">S</span>arafaraj <span style="color:#FFD700">N</span>asardi 🦇</h1>
