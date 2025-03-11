@@ -9,13 +9,6 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sarafaraj/)
 </div>
 
-## 🦇 The Bat Signal
-- 🏆 **Victories**: Runner-up @ Tripura-State CyberSecurity Hackathon 2024 & Coderelay 3.0, IIT Bhubaneswar
-- 🌃 **Current Mission**: Flutter apps & Competitive Programming
-- 🦇 **Training**: React, Express, DBMS
-- 💬 **Expertise**: DSA, Flutter, C++, Dart
-- 📫 **Contact**: sarafarajnasardi786@gmail.com
-
 ## 🦇 Bat-Arsenal
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
