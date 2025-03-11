@@ -41,10 +41,6 @@
 ## 🦇 Gotham City Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafarajnasardi&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  
-  <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarafarajnasardi&theme=radical&hide_border=true&background=0D1117&stroke=0000" alt="GitHub Streak" />
-</a>
 </div>
 
 <div align="center">
