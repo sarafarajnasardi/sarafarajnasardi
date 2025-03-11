@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/12qFOaBbu9TZny/giphy.gif" width="100%" height="200px" alt="Batman GIF"/>
+  <img src="[https://media.giphy.com/media/12qFOaBbu9TZny/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmanpyZHM5YTY1N20xZnRmYTAxZHB5Y3RvNGJyYmVwMXl4NTU1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif)" width="100%" height="200px" alt="Batman GIF"/>
 
 # 🦇 Sarafaraj Nasardi 🦇
 ### *"Not the developer they deserved, but the one they needed"*
