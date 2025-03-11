@@ -17,7 +17,7 @@
       <strong>📫 Contact:</strong> sarafarajnasardi786@gmail.com
     </td>
     <td>
-      <img src="https://media.giphy.com/media/3oEduKmYsxwzIjlZRe/giphy.gif" width="150px" alt="Batman"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZjcGVyOG4wN282Nmp0NTZibTF2bng2MThjamEzdnhpeW9yNjhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGGHjzCxell2o/giphy.gif" width="150px" alt="Batman"/>
     </td>
   </tr>
 </table>
