@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/ZWxzngO.gif" width="100%" height="200px" alt="Coding Banner"/>
   
   # Sarafaraj Nasardi
   ### *Developer, Problem Solver, Tech Enthusiast*
