@@ -26,11 +26,70 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafarajnasardi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sarafarajnasardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarafarajnasardi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafarajnasardi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarafarajnasardi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sarafarajnasardi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  
+</div>
+
+## 📈 Contribution Summary
+
+<div align="center">
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarafarajnasardi&theme=tokyonight" alt="Profile Summary" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Additional Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarafarajnasardi&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarafarajnasardi&theme=tokyonight" alt="Most Commit Language" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Stats and Commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarafarajnasardi&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarafarajnasardi&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  
+</div>
+
+## 📱 Connect With Me
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sarafarajnasardi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From [sarafarajnasardi](https://github.com/sarafarajnasardi)</i>
 </div>
