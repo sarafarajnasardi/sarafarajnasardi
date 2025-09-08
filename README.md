@@ -1,95 +1,91 @@
 <div align="center">
-  
-  # Sarafaraj Nasardi
-  ### *Developer, Problem Solver, Tech Enthusiast*
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarafaraj-nasardi-7722b31b3)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sarafarajnasardi)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sarafaraj/)
-  [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sarafarajn)
-</div>
 
-## 👨‍💻 About Me
-- 🏆 Runner-up @ Tripura-State CyberSecurity Hackathon 2024 & Coderelay 3.0, IIT Bhubaneswar
-- 🚀 Focused on Web Development & Competitive Programming
-- 📫 Contact: sarafarajnasardi786@gmail.com
+# 🌟 Hello World, I'm Sarafaraj! 
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
 
-## 📊 GitHub Stats & Contributions
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+---
+
+## 🎯 Quick Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sarafarajnasardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarafarajnasardi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
 
-<div align="center">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafarajnasardi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarafarajnasardi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<h3>🏆 Achievements</h3>
+<p><strong>Runner-up</strong><br/>Tripura CyberSec Hackathon 2024<br/>Coderelay 3.0, IIT Bhubaneswar</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<h3>💻 Focus Areas</h3>
+<p><strong>Web Development</strong><br/>Competitive Programming<br/>Problem Solving</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<h3>📫 Connect</h3>
+<p><strong>Always Open</strong><br/>sarafarajnasardi786@gmail.com<br/>Let's Collaborate!</p>
+</td>
+</tr>
+</table>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sarafarajnasardi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  
-</div>
-
-## 📈 Contribution Summary
-
-<div align="center">
-  
-  <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarafarajnasardi&theme=tokyonight" alt="Profile Summary" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Additional Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarafarajnasardi&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarafarajnasardi&theme=tokyonight" alt="Most Commit Language" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Stats and Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarafarajnasardi&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarafarajnasardi&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  
-</div>
-
-## 📱 Connect With Me
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarafarajnasardi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
 
+## 🚀 Tech Arsenal
+
 <div align="center">
-  <i>⭐️ From [sarafarajnasardi](https://github.com/sarafarajnasardi)</i>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,dart,react,nodejs,express,mongodb,mysql,flutter,git,github,vscode&perline=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarafarajnasardi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sarafarajnasardi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafarajnasardi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarafarajnasardi&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="GitHub Activity Graph" height="170"/>
+
+</div>
+
+---
+
+## 🎮 Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sarafarajnasardi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sarafaraj/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sarafarajn)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Build Together!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sarafaraj-nasardi-7722b31b3">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sarafarajnasardi&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
+
+<h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
