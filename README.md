@@ -2,7 +2,7 @@
 
 # 🌟 Hello World, I'm Sarafaraj! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Competitive+Programmer;" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
