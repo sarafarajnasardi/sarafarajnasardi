@@ -1,117 +1,54 @@
-# Hi, I'm Sarafaraj! 👋
 
-**Full Stack Developer | Competitive Programmer (Specialist) | Hackathon Winner**
+# Sarafaraj Nasardi
 
-I am a B.Tech CSE student at NIT Agartala, passionate about building scalable web applications and solving complex algorithmic problems.
+**Backend Developer**
 
-- 🔭 **Current Focus:** Full Stack Web Development & Flutter Apps
-- 🏆 **Key Achievements:** 
-    - **Runner-up:** Tripura CyberSec Hackathon 2024
-    - **Runner-up:** Coderelay 3.0 (IIT Bhubaneswar)
-    - **Codeforces:** Specialist Rank
-- 📫 **Contact:** [sarafarajnasardi786@gmail.com](mailto:sarafarajnasardi786@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14b8a6&center=true&vCenter=true&width=640&lines=GSoC%202026%20%C2%B7%20FOSSASIA%20%2F%20eventyay;Reviewing%20PRs%2C%20shipping%20features%2C%20open%20source;Codeforces%20Specialist%20%C2%B7%20competitive%20programmer)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="https://linkedin.com/in/sarafaraj-nasardi-7722b31b3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sarafarajnasardi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codeforces.com/profile/sarafarajnasardi">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
+GSoC 2026 contributor at FOSSASIA, working on the eventyay video platform. Open source engineer focused on backend systems and real-world infrastructure.
 
----
+Location: Agartala, India · UTC+5:30 · Experience: Final-year B.Tech CSE · NIT Agartala · Learning: eventyay internals, open source infrastructure, backend scaling
 
-## 🛠️ Technical Arsenal
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarafaraj-nasardi-7722b31b3) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarafarajnasardi786@gmail.com)
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend & Mobile</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend & DB</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-      </div>
-    </td>
-  </tr>
-</table>
+## Snapshot
 
----
+- ⌖ **Location** · Agartala, India · UTC+5:30
+- ⌗ **Experience** · Final-year B.Tech CSE · NIT Agartala
+- ◎ **Education** · NIT Agartala — B.Tech Computer Science
+- ⟳ **Learning** · eventyay internals, open source infrastructure, backend scaling
+- ✦ **Fun fact** · debug Codeforces problems the same way I debug production systems
 
-## 📊 GitHub Analytics
+## Stack
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarafarajnasardi&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarafarajnasardi&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarafarajnasardi&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,python,dart,css,html,ts&theme=dark" alt="Languages"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarafarajnasardi&theme=tokyonight" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarafarajnasardi&theme=tokyonight" alt="Top Languages by Commit"/>
-</p>
+**Frontend**
 
-### 🔥 Contribution Streak
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,vite,flutter&theme=dark" alt="Frontend"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarafarajnasardi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+**Backend & Databases**
 
-### 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,postgres,mysql,mongodb,redis,firebase&theme=dark" alt="Backend & Databases"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarafarajnasardi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+**DevOps & Cloud**
 
----
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,vercel,vscode,githubactions&theme=dark" alt="DevOps & Cloud"/>
 
-## 💼 Professional Highlights
+## Languages
+- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 
-- 🏅 **Competitive Programming:** Achieved Specialist rank on Codeforces
-- 🏆 **Hackathon Success:** Multiple runner-up positions in prestigious competitions
-- 💻 **Full Stack Expertise:** Building end-to-end web and mobile applications
-- 🎯 **Problem Solving:** Strong algorithmic thinking with C++ proficiency
+## GitHub Signals
 
----
+![GitHub Stats](https://ghstats.dev/api/card?username=sarafarajnasardi)
 
-## 🚀 Featured Projects
+## Extras
 
-Check out my pinned repositories below to see what I've been working on!
+### Activity
 
----
+<img src="https://gitlyy.vercel.app/api/contribution?username=sarafarajnasardi&hide_border=true"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarafarajnasardi&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
-</p>
+[Say hello](https://linkedin.com/in/sarafaraj-nasardi-7722b31b3)
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
